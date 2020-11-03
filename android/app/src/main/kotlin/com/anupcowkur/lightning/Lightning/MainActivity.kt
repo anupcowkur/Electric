@@ -1,4 +1,4 @@
-package com.anupcowkur.lightning.Lightning
+package com.anupcowkur.electric
 
 import io.flutter.embedding.android.FlutterActivity
 
